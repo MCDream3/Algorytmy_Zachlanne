@@ -2,7 +2,7 @@
 #FIFO --> First In First Out
 #LIFO --> Last In First Out
 
-# 5 7 2 1 + 2 - 3 * + +
+# 5 7 2 1 + 2 - 3 * + +    
   
 # 5 7 2 1 --> 2 3 7 5 --> 3 1 7 5 --> 3 7 5 --> 10 5 --> 15
 
